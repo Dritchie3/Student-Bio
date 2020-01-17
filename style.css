@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: red;
+    background: blueviolet;
+    padding: 100px;
+}
+
+.Bio {
+    font-size: 80px;;
+}
+
+h2 {
+    text-align: center;
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;;
+    border:20px solid black;
+    padding:20px 
+    }
